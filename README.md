@@ -1,2 +1,2 @@
 # DC
-DC Course
+Data Communication course
